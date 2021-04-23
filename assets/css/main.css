@@ -28,9 +28,9 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
-<style>
+style {
       font-family: BNazanin,'BNazanin',tahoma;
-</style>
+}
 
 body {
 	line-height: 1;
