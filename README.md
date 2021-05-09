@@ -14,5 +14,5 @@
 
 |     16-18     | 14-16          |  روز    |
 | ------------- |:-------------:|--------:|
-|               | [الگوریتم های پیشرفته](https://github.com/MehrdadMajdinasab/PNU_3991_AR/tree/main/Advanced%20Algorithms)|چهارشنبه |
+|               | [الگوریتم های پیشرفته](https://github.com/kyhpnh/PNU_3991/tree/main/Advanced%20Algorithms)|چهارشنبه |
 
