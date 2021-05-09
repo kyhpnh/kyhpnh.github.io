@@ -1,7 +1,7 @@
 # PNU_3991_AR
 --------------
 ###   کیهان پناه بحق
-- [PNU_3991_AR](https://github.com/kyhpnh/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/kyhpnh/PNU_3991)
 - [GitHub Account](https://github.com/kyhpnh)
 - [Resume](https://kyhpnh.github.io)
 - [SOP](https://kyhpnh.github.io/SOP)
