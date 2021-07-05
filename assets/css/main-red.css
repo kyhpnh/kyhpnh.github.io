@@ -900,10 +900,10 @@ ul.social-links li:last-child a {
 	position: relative;
 	margin: 0;
 	color: #fff;
-	background-color: #44e1dc;
+	background-color: black;
 	padding: 0 10px;
 	font-size: 14px;
-	font-weight: 300;
+	font-weight: 600;
 	font-family: inherit;
 	text-align: center;
 	z-index: 2;
