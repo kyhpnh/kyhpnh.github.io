@@ -117,9 +117,9 @@ p.lead {
 }
 img {
 	vertical-align: bottom;
-	max-width: 100%;
+	max-width: 78%;
 	height: auto;
-	border: 0;
+	border-radius: 97px;
 	-ms-interpolation-mode: bicubic;
 }
 .page {
