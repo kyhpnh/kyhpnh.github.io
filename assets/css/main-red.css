@@ -80,6 +80,8 @@ a {
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+	text-shadow: 2px 2px 2px black, 3px 3px 2px #999;
+
 }
 a:hover {
 	color: white;
@@ -101,6 +103,8 @@ h6 {
 	line-height: 1.85em;
 	margin-top: 0;
 	margin-bottom: 10px;
+	text-shadow: 2px 2px 2px black, 3px 3px 2px #999;
+
 }
 p {
 	font-size: 0.875em;
