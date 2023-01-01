@@ -103,8 +103,7 @@ h6 {
 	line-height: 1.85em;
 	margin-top: 0;
 	margin-bottom: 10px;
-	text-shadow: 2px 2px 2px black, 3px 3px 2px #999;
-
+        text-shadow: 3px 2px 1px black, 4px 3px 1px black;
 }
 p {
 	font-size: 0.875em;
